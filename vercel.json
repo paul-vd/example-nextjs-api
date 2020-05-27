@@ -1,6 +1,14 @@
 {
   "functions": {
+    "pages/api/default.js": {
+      "memory": 128,
+      "maxDuration": 10
+    },
     "pages/api/hello.ts": {
+      "memory": 128,
+      "maxDuration": 10
+    },
+    "pages/api/test.js": {
       "memory": 128,
       "maxDuration": 10
     }
